@@ -7,7 +7,7 @@
 测试图片：
 ![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/images_result/test.jpg)
 测试结果：
-![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/images_result/test2.jpg)
+![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/images_result/test2.png)
 
 
 ## 训练数据
