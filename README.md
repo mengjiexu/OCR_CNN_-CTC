@@ -7,6 +7,11 @@ requirements:
 * opencv 
 * matplotlib
 
+to train the model:
+1. add some ttf files to ttf/
+2. use myutils/useTtfToGenImgs.ipynb to Generate images, you can use your own word files and ttf files;
+3. run '''python3 train.py''', you can change the train.py for your model arch
+
 
 ## 效果
 训练数据为200万的类似下面的图片：
