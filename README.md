@@ -1,5 +1,12 @@
 # OCR_CNN_-CTC
 使用CNN全卷积神经网络进行整行汉字识别，正确率90-94%，这项目是我毕设的一个子项目，主要用于识别建筑图纸中的文字。
+## train
+requirements:
+* python > 3.x
+* tensorflow  1.13.1
+* opencv 
+* matplotlib
+
 
 ## 效果
 训练数据为200万的类似下面的图片：
