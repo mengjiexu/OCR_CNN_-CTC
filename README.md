@@ -15,11 +15,11 @@ to train the model:
 
 ## 效果
 训练数据为200万的类似下面的图片：
-![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/images_result/train.png)
+![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/data/images_result/train.png)
 测试图片：
-![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/images_result/test.jpg)
+![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/data/images_result/test.jpg)
 测试结果：
-![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/images_result/test2.png)
+![](https://github.com/mengjiexu/OCR_CNN_-CTC/raw/master/data/images_result/test2.png)
 
 
 ## 训练数据
